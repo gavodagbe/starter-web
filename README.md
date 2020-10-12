@@ -15,7 +15,7 @@ This is the proc
 This is how to contribute section
 
 ## Copyright
-Copyright section 
+Copyright section . All rights reserved
 
 ## Describe Copyright section 
 Description of copyright section 
