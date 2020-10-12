@@ -14,8 +14,11 @@ This is the proc
 ## How to contribute
 This is how to contribute section
 
-## Copyrightt
+## Copyright
 Copyright section 
+
+## Describe Copyright section 
+Description of copyright section 
 
 This is how to contribute section
 
