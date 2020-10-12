@@ -20,5 +20,4 @@ Copyright section
 ## Describe Copyright section 
 Description of copyright section 
 
-This is how to contribute section
 
