@@ -14,4 +14,11 @@ This is the proc
 ## How to contribute
 This is how to contribute section
 
-Sample website with plenty of files for demos
+## Copyright
+Copyright section 
+
+## Describe Copyright section 
+Description of copyright section 
+
+This is how to contribute section
+
